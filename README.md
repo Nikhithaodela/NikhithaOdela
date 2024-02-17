@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Nikhitha Odela</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhithaodela&label=Profile%20views&color=0e75b6&style=flat" alt="nikhithaodela" /> </p>
